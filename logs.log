@@ -17456,3 +17456,13 @@ Name: Outcome, Length: 25967, dtype: int8
 2023-10-06 07:33:36,562:INFO:load_model(model_name=deployment_gb, platform=None, authentication=None, verbose=True)
 2023-10-06 10:27:11,879:INFO:Initializing load_model()
 2023-10-06 10:27:11,880:INFO:load_model(model_name=deployment_gb, platform=None, authentication=None, verbose=True)
+2023-10-06 11:49:09,276:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-06 11:49:09,276:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-06 11:49:09,277:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-06 11:49:09,277:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-06 11:49:11,404:INFO:Initializing load_model()
+2023-10-06 11:49:11,405:INFO:load_model(model_name=deployment_gb, platform=None, authentication=None, verbose=True)
